@@ -1,4 +1,4 @@
-Te explico los decoradores más importantes y funciones esenciales que todo senior Python debe dominar:## Decoradores que **todo senior debe dominar:**
+## Decoradores que **todo senior debe dominar:**
 
 ### **Los 5 más críticos:**
 1. **@property** - Control fino sobre atributos
@@ -56,5 +56,3 @@ def operacion_critica(param: str) -> Dict[str, Any]:
 3. **Crea decoradores reutilizables** para patrones comunes
 4. **Usa functools correctamente** (@wraps, partial, singledispatch)
 5. **Domina itertools** para algoritmos eficientes
-
-¿Te gustaría que profundice en algún decorador específico o que te enseñe patrones avanzados de metaprogramación?
