@@ -1,5 +1,3 @@
-**extremadamente comunes**, especialmente en programadores que vienen de otros lenguajes. Te explico por qué son problemáticos:
-
 ## Los más peligrosos:
 
 1. **Referencias mal entendidas**: Causa bugs sutiles y difíciles de encontrar

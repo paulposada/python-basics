@@ -1,4 +1,4 @@
-Estos son errores más avanzados pero igual de importantes. Te explico cada uno:Estos errores son **críticos para código profesional**. Te explico la importancia de cada uno:
+Estos errores son **críticos para código profesional**. Te explico la importancia de cada uno:
 
 ## Los más críticos para producción:
 
